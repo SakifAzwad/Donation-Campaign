@@ -1,0 +1,11 @@
+nav a.active{
+    text-decoration: underline;
+    color: #FF444A;
+    font-weight: 700;
+}
+
+.bg1
+{
+    background-image: url('/src/assets/pic.jpg');
+    
+}

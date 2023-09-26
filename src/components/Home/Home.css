@@ -1,0 +1,21 @@
+.pic1
+{
+    background: lightgray 50% / cover no-repeat;
+    position: relative;
+    background-image: url('/src/assets/pic.jpg');
+    opacity: 0.1;
+    height: 460px;
+    /* top: -100px; */
+}
+.ban1
+{
+    position: relative;
+    z-index: 1;
+    top: -450px;
+}
+
+.sea1
+{
+    position: relative;
+    top: -350px;
+}

@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "picture": "https://i.ibb.co/WfN5H64/Health.png",
+    "title": "Clean water for children",
+    "category": "Health",
+    "category_bg": "#0052ff33",
+    "card_bg": "#0052ff26",
+    "text_col": "#0052FF",
+    "description": "Clean water is a fundamental necessity for children's well-being and development. Access to safe and uncontaminated water is crucial to ensure their health, growth, and overall quality of life. Unfortunately, millions of children worldwide still lack access to clean water sources, facing dire consequences such as waterborne diseases, malnutrition, and even death.Providing clean water for children is not only a matter of survival but also a catalyst for educational opportunities and brighter futures. With access to safe water, children can attend school regularly, as they are not burdened by water-related illnesses, and they have more time to dedicate to their studies. Clean water is a lifeline for children, offering them the chance to grow, thrive, and dream of a healthier, more prosperous tomorrow. It is an essential resource that deserves our unwavering commitment to ensuring that no child goes without this basic human right.",
+    "price": "$199.99"
+  },
+  {
+    "id": 2,
+    "picture": "https://i.ibb.co/xC9ccjJ/Education.png",
+    "title": "Good education",
+    "category": "Education",
+    "category_bg": "#ff444a33",
+    "card_bg": "#ff444a26",
+    "text_col": "#FF444A",
+    "description": "Good education is the cornerstone of personal and societal progress. It equips individuals with knowledge, skills, and critical thinking abilities, empowering them to lead fulfilling lives and contribute meaningfully to society. A quality education goes beyond textbooks, nurturing creativity, curiosity, and a lifelong love for learning.It fosters empathy, tolerance, and a sense of global citizenship, promoting social harmony. Good education bridges gaps, breaking the cycle of poverty, and leveling the playing field for all. It is a transformative force that transcends boundaries, allowing individuals to realize their potential and tackle the world's challenges. Investing in good education is an investment in a brighter, more equitable future for individuals and the world at large.",
+    "price": "$49.99"
+  },
+  {
+    "id": 3,
+    "picture": "https://i.ibb.co/s9P9Bxk/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "category_bg": "#79c23f33",
+    "card_bg": "#79c23f26",
+    "text_col": "#79C23F",
+    "description": "A used clothing drive, a compassionate initiative promoting sustainability, encourages communities to donate gently worn clothing, extending the life of garments and reducing textile waste. Donated clothes find new homes among underprivileged individuals, providing them with warmth and dignity, while also fostering a sense of social responsibility and empathy. Furthermore, these drives contribute to environmental conservation by diverting textiles from landfills, highlighting the power of collective goodwill and emphasizing how small actions, like donating clothes, can make a significant positive impact on society and the planet.",
+    "price": "$79.99"
+  },
+  {
+    "id": 4,
+    "picture": "https://i.ibb.co/09827dz/Food.png",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "category_bg": "#f8714733",
+    "card_bg": "#f8714726",
+    "text_col": "#F87147",
+    "description": "Ensuring access to better food for everyone is an essential step towards improved public health, well-being, and equality. It involves advocating for nutritious, affordable, and sustainably sourced food options that nourish our bodies and support local communities. By prioritizing food security, we address hunger, malnutrition, and diet-related diseases, ultimately enhancing quality of life. Moreover, better food practices promote environmental sustainability, reducing the ecological footprint of our food systems. This comprehensive approach not only benefits individuals but also advances the broader goal of achieving equitable, resilient, and thriving societies where everyone has the opportunity to enjoy healthier lives and contribute to a sustainable future.",
+    "price": "$29.99"
+  },
+  {
+    "id": 5,
+    "picture": "https://i.ibb.co/R7vhs3K/close-up-volunteers-collecting-food-donations.jpg",
+    "title": "Feed the Hungry",
+    "category": "Food",
+    "category_bg": "#f8714733",
+    "card_bg": "#f8714726",
+    "text_col": "#F87147",
+    "description": "Feeding the hungry is a humanitarian imperative that addresses one of the world's most pressing challenges. Hunger and food insecurity affect millions globally, depriving individuals of their basic right to sustenance and dignity. Initiatives aimed at providing food for the hungry offer immediate relief, alleviating suffering and preventing starvation. These efforts are vital in times of crises, whether caused by natural disasters or economic hardships. Beyond immediate aid, sustainable solutions like food banks, community gardens, and nutritional education empower communities to break the cycle of hunger. It is a collective responsibility to ensure that no one goes to bed hungry, and by coming together, we can create a world where everyone has access to the nourishment they need for a healthier and more hopeful future.    ",
+    "price": "$149.99"
+  },
+  {
+    "id": 6,
+    "picture": "https://i.ibb.co/KNs4DyB/female-volunteer-holding-clothes-donation-box.jpg",
+    "title": "Dress for Success",
+    "category": "Clothing",
+    "category_bg": "#79c23f33",
+    "card_bg": "#79c23f26",
+    "text_col": "#79C23F",
+    "description": "'Dress for Success' donations are a powerful means of transforming lives. By contributing professional attire and accessories, individuals uplift others, particularly those striving to enter or re-enter the workforce. This initiative empowers job seekers with confidence, enabling them to make strong first impressions during interviews and professional encounters. Beyond clothing, it symbolizes a supportive community that recognizes the importance of self-esteem and opportunity. Dress for Success donations inspire hope and break down socio-economic barriers, emphasizing that everyone deserves a fair chance to succeed. They represent the embodiment of compassion and the belief that dressing well can be the first step towards achieving personal and professional goals, fostering a brighter future for all.    ",
+    "price": "$39.99"
+  },
+  {
+    "id": 7,
+    "picture": "https://i.ibb.co/J50tGM9/education-academy-certification-curriculum-icon.jpg",
+    "title": "Empower Minds",
+    "category": "Education",
+    "category_bg": "#ff444a33",
+    "card_bg": "#ff444a26",
+    "text_col": "#FF444A",
+    "description": "Empowering minds is the key to unlocking human potential and driving positive change in society. It involves providing individuals with the tools, knowledge, and opportunities they need to learn, grow, and realize their aspirations. Education, access to information, and skill development are fundamental components of this process. Empowering minds cultivates critical thinking, creativity, and problem-solving abilities, fostering innovation and progress. It transcends gender, age, and socio-economic boundaries, promoting inclusivity and diversity. Ultimately, it empowers individuals to overcome challenges, pursue their dreams, and contribute to building a more equitable, informed, and harmonious world. Empowering minds is an investment in a brighter, more resilient future for all.",
+    "price": "$59.99"
+  },
+  {
+    "id": 8,
+    "picture": "https://i.ibb.co/TcMqxYc/happy-doctor-holding-clipboard-with-patients.jpg",
+    "title": "Heal Together",
+    "category": "Health",
+    "category_bg": "#0052ff33",
+    "card_bg": "#0052ff26",
+    "text_col": "#0052FF",
+    "description": "'Heal Together' embodies the collective strength of communities in facing adversity and overcoming challenges. It signifies unity in times of crisis, be it a health crisis, a natural disaster, or a social issue. Healing together emphasizes the power of collaboration, empathy, and support to mend wounds, both physical and emotional. It's a reminder that, as a society, we can provide comfort, care, and resources to those in need, fostering resilience and recovery. This approach recognizes that healing isn't an individual journey but a shared endeavor that brings people together, instilling hope and reaffirming our capacity for compassion and solidarity in the face of adversity.",
+    "price": "$299.99"
+  },
+  {
+    "id": 9,
+    "picture": "https://i.ibb.co/MP1h3CQ/female-nurse-using-digital-blood-pressure-device-senior-woman-nursing-home.jpg",
+    "title": "Preserve Lives",
+    "category": "Health",
+    "category_bg": "#0052ff33",
+    "card_bg": "#0052ff26",
+    "text_col": "#0052FF",
+    "description": "Preserving lives is a paramount duty that underscores the value we place on human existence. It involves taking proactive measures to safeguard and extend life, from ensuring access to healthcare and nutritious food to disaster preparedness and safety measures. This commitment transcends borders and differences, emphasizing the universal importance of every individual's well-being. Preserving lives also encompasses efforts to combat preventable diseases, promote mental health, and address public health challenges. It requires empathy, innovation, and global cooperation, with the shared goal of reducing suffering and creating a safer, healthier world for all. Preserving lives is a fundamental human endeavor that underscores our shared humanity and commitment to a brighter, more compassionate future.",
+    "price": "$69.99"
+  },
+  {
+    "id": 10,
+    "picture": "https://i.ibb.co/qCTSVTC/medium-shot-student-holding-books.jpg",
+    "title": "Books for Bright Futures",
+    "category": "Education",
+    "category_bg": "#ff444a33",
+    "card_bg": "#ff444a26",
+    "text_col": "#FF444A",
+    "description": "'Books for Bright Future' exemplifies the transformative power of education and knowledge in shaping a better tomorrow. Access to books opens doors to learning, imagination, and personal growth. It equips individuals, especially children, with the tools to expand their horizons, develop critical thinking, and pursue their dreams. This initiative fosters a lifelong love for reading, enhancing literacy rates and intellectual curiosity. A well-read society is better equipped to address global challenges, innovate, and create positive change. 'Books for Bright Future' signifies a commitment to providing equal opportunities through education, ensuring that every individual has the chance to contribute to a brighter, more enlightened, and prosperous future for themselves and their communities.",
+    "price": "$89.99"
+  },
+  {
+    "id": 11,
+    "picture": "https://i.ibb.co/gVJGrYp/close-up-volunteer-oganizing-stuff-donation.jpg",
+    "title": "Clothe the Community",
+    "category": "Clothing",
+    "category_bg": "#79c23f33",
+    "card_bg": "#79c23f26",
+    "text_col": "#79C23F",
+    "description": "The 'Clothe the Community' initiative is a heartwarming endeavor that symbolizes the spirit of compassion and solidarity. It encourages individuals and communities to donate clothing to those in need, fostering a sense of shared responsibility and empathy. By providing warm clothing and essentials, this initiative brings comfort and dignity to those facing adversity, particularly during challenging weather conditions. 'Clothe the Community' transcends socio-economic boundaries, promoting inclusivity and unity. It underscores the idea that clothing is more than fabric; it's a symbol of care, support, and a reminder that we can make a difference in the lives of our neighbors. This initiative embodies the principle that by coming together, we can create a warmer, more compassionate world for all.",
+    "price": "$19.99"
+  },
+  {
+    "id": 12,
+    "picture": "https://i.ibb.co/HVTYgy7/close-up-people-collecting-food.jpg",
+    "title": "Nourish the Community",
+    "category": "Food",
+    "category_bg": "#f8714733",
+    "card_bg": "#f8714726",
+    "text_col": "#F87147",
+    "description": "'Nourish the Community' is a profound call to action, emphasizing the importance of supporting and sustaining the well-being of every member of a community. This initiative revolves around the idea that access to nutritious food is a fundamental human right. By coming together, we can ensure that no one goes hungry, and that individuals and families receive the nourishment they need to thrive. 'Nourish the Community' fosters a sense of unity, compassion, and shared responsibility, transcending socio-economic disparities. It recognizes that food not only fuels the body but also feeds the spirit of a community, empowering its members to lead healthier, more fulfilling lives.",
+    "price": "$129.99"
+  }
+]
