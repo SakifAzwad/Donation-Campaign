@@ -7,13 +7,9 @@ const Details = () => {
     
     
     const {id}=useParams();
-    const datas=useLoaderData();
-    
-    console.log(id,datas);
+    const datas=useLoaderData(); 
     const data=datas.find(data=>data.id==id)
 
-    console.log(data);
-    
     return (
         <div>
           <ShowDetails data={data}></ShowDetails>  

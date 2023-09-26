@@ -23,15 +23,12 @@ const ShowDetails = ({ data }) => {
     const addedDataArray = [];
 
     const Items = JSON.parse(localStorage.getItem("item"));
-
-    //jokhon kisu nai tokhon e if vitor dhukba
     if (!Items) {
       addedDataArray.push(data);
       localStorage.setItem("item", JSON.stringify(addedDataArray));
       swal("Congratulations", "Thanks for donating!!", "success");
     } else {
       const isExits = Items.find((data) => data.id === id);
-
       if (!isExits) {
         addedDataArray.push(...Items, data);
         localStorage.setItem("item", JSON.stringify(addedDataArray));
@@ -40,8 +37,6 @@ const ShowDetails = ({ data }) => {
         swal("Congratulations", "Thanks for donating again!!", "success");
       }
     }
-
-    // localStorage.setItem('test',JSON.stringify([{name:"hasib"},{name:"ph"}]))
   };
 
   return (
