@@ -42,13 +42,13 @@ const ShowDetails = ({ data }) => {
   return (
     <div>
       <img
-        className="w-full h-[500px] mx-auto px-32 mt-8 "
+        className="w-full h-[500px] mx-auto px-8 lg:px-32 mt-8 "
         src={picture}
         alt=""
       />
       <div
         style={divStyle}
-        className="relative -top-24 mx-32 h-24 rounded-b-lg"
+        className="relative -top-24 mx-8 lg:mx-32 h-24 rounded-b-lg"
       >
         <button
           onClick={() => {
@@ -61,8 +61,8 @@ const ShowDetails = ({ data }) => {
         </button>
         
       </div>
-      <h1 className="relative -top-8 font-bold text-4xl mx-32">{title}</h1>
-      <p className="mx-32 mb-24 text-base font-normal">{description}</p>
+      <h1 className="relative -top-8 font-bold text-4xl mx-8 lg:mx-32">{title}</h1>
+      <p className="lg:mx-32 mx-8 mb-24 text-base font-normal">{description}</p>
     </div>
   );
 };

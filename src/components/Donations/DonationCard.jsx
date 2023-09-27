@@ -15,7 +15,7 @@ const DonationCard = ({ data }) => {
 
   return (
     <div className="">
-      <div className="flex h-48 bg-base-100 rounded-lg">
+      <div className="flex md:h-48 h-64 bg-base-100 rounded-lg">
         <figure className="">
           <img
             className="h-full w-96 rounded-l-lg"

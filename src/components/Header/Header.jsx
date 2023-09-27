@@ -14,13 +14,13 @@ const Header = () => {
 
   return (
     <div>
-      <div className="flex items-center justify-between mx-32 mt-8">
-        <img src="/src/assets/Logo.png" alt="" />
+      <div className="flex items-center justify-between lg:mx-32 mt-8">
+        <img className="md:w-auto w-32" src="/src/assets/Logo.png" alt="" />
         <div className="">
           <nav className="text-lg font-normal ">
-            <NavLink onClick={tog1} className="" to="/">Home</NavLink>
-            <NavLink className="ml-12" to="/donations">Donation</NavLink>
-            <NavLink className="ml-12" to="/stats">Statistics</NavLink>
+            <NavLink onClick={tog1} className="md:ml-0 ml-3" to="/">Home</NavLink>
+            <NavLink className="md:ml-12 ml-3" to="/donations">Donation</NavLink>
+            <NavLink className="md:ml-12 ml-3 mr-2" to="/stats">Statistics</NavLink>
           </nav>
         </div>
       </div>
